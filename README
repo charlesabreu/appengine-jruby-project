@@ -7,8 +7,8 @@ Steps:
 * In the console, inside project folder, run:  dev_appserver war
 * The application is up and running. Enjoy yourself.
 
-So, now what? Start browsing the sample code inside war/WEB-INF/classes. Drop it out and start coding your own AppEngine aplication in Ruby! Put any Ruby or Java libraries needed inside war/WEB-INF/lib, packaged as jars files. 
+So, now what? Start browsing the sample code inside war/WEB-INF/classes. Drop it out and start coding your own AppEngine application in Ruby! Put any Ruby or Java libraries needed inside war/WEB-INF/lib, packaged as jars files. 
 
 We are currently using Eclipse Helios and there are configuration files for that IDE. There are, however, no Eclipse dependencies and you can use any IDE you like.
 
-This is an standard GAE/Java application. Any features and restrictions apply.
+This is an standard GAE/Java application. All features and restrictions apply.
