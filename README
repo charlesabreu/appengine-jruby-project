@@ -2,7 +2,7 @@ This is a setup project to help one get started with Google AppEngine (GAE), JRu
 
 Steps:
 
-* Donwload and install GAE Java SDK. Certify binaries/scripts are in the path.
+* Donwload and install GAE Java SDK. Make sure binaries/scripts are in the path.
 * Get the repository files
 * In the console, inside project folder, run:  dev_appserver war
 * The application is up and running. Enjoy yourself.
