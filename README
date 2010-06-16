@@ -11,4 +11,4 @@ So, now what? Start browsing the sample code inside war/WEB-INF/classes. Drop it
 
 We are currently using Eclipse Helios and there are configuration files for that IDE. There are, however, no Eclipse dependencies and you can use any IDE you like.
 
-This is an standard GAE/Java project. Any features and restrictions apply.
+This is an standard GAE/Java application. Any features and restrictions apply.
