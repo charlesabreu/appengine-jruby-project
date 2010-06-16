@@ -1,1 +1,14 @@
-This is a setup project to get started with AppEngine, JRuby and Sinatra.
+This is a setup project to help one get started with Google AppEngine (GAE), JRuby and Sinatra.
+
+Steps:
+
+* Donwload and install GAE Java SDK. Certify binaries/scripts are in the path.
+* Get the repository files
+* In the console, inside project folder, run:  dev_appserver war
+* The application is up and running. Enjoy yourself.
+
+So, now what? Start browsing the sample code inside war/WEB-INF/classes. Drop it out and start coding your own AppEngine aplication in Ruby! Put any Ruby or Java libraries needed inside war/WEB-INF/lib, packaged as jars files. 
+
+We are currently using Eclipse Helios and there are configuration files for that IDE. There are, however, no Eclipse dependencies and you can use any IDE you like.
+
+This is an standard GAE/Java project. Any features and restrictions apply.
